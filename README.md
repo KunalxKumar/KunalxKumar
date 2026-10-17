@@ -37,4 +37,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KunalxKumar&show_icons=true&locale=en" alt="KunalxKumar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalxKumar&" alt="KunalxKumar" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalxKumar&show_icons=true&locale=en&layout=compact" alt="KunalxKumar" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalxKumar" alt="KunalxKumar" /></a></p>
