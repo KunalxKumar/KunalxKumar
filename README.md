@@ -29,7 +29,11 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/kunal-kumar-990128334" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+<a target="_blank" href="https://www.linkedin.com/in/kunal-kumar-990128334" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://tryhackme.com/p/kunalxkumar" style="display: inline-block;"><img src="https://img.shields.io/badge/TryHackMe-kunalxkumar?style=for-the-badge&logo=tryhackme&logoColor=white&color=%23212c42" alt="TryHackMe" /></a>
+<a target="_blank" href="https://leetcode.com/u/cursor888/" style="display: inline-block;"><img src="https://img.shields.io/badge/LeetCode-cursor888?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116" alt="LeetCode" /></a>
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KunalxKumar&show_icons=true&locale=en" alt="KunalxKumar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalxKumar&" alt="KunalxKumar" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalxKumar&show_icons=true&locale=en&layout=compact" alt="KunalxKumar" /></p>
