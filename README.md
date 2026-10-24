@@ -34,6 +34,6 @@
 <a target="_blank" href="https://tryhackme.com/p/kunalxkumar" style="display: inline-block;"><img src="https://img.shields.io/badge/TryHackMe-kunalxkumar?style=for-the-badge&logo=tryhackme&logoColor=white&color=%23212c42" alt="TryHackMe" /></a>
 <a target="_blank" href="https://leetcode.com/u/cursor888/" style="display: inline-block;"><img src="https://img.shields.io/badge/LeetCode-cursor888?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116" alt="LeetCode" /></a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KunalxKumar&show_icons=true&locale=en" alt="KunalxKumar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalxKumar&" alt="KunalxKumar" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalxKumar&show_icons=true&locale=en&layout=compact" alt="KunalxKumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KunalxKumar&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="KunalxKumar" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=KunalxKumar&theme=transparent&hide_border=true" alt="KunalxKumar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalxKumar&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="KunalxKumar" /></p>
